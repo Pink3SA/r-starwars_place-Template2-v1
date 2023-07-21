@@ -1,0 +1,15 @@
+{
+  "contact": "discord.gg/thegalacticrepublic",
+  "templates": [
+    {
+      "name": "r/starwars_place v2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1117965790336012440/1131985825593307319/r_starwars_place2_v1.png"
+      ],
+      "x": 675,
+      "y": 340
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
