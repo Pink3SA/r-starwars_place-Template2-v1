@@ -1,15 +1,24 @@
 {
-  "contact": "discord.gg/thegalacticrepublic",
+  "contact": "discord.gg/TheGalacticRepublic & in P3ACE",
   "templates": [
     {
-      "name": "r/starwars_place v2",
+      "name": "r/starwars_place #2",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1117965790336012440/1131985825593307319/r_starwars_place2_v1.png"
+        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_2.png"
       ],
-      "x": 675,
-      "y": 340
+      "x": 1175,
+      "y": 840
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Digital Clock",
+      "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
+    },
+    {
+      "name": "r/ousplace",
+      "url": "https://osu.place/e/osuplace2023.json"
+    }
+  ],
   "blacklist": []
 }
