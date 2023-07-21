@@ -6,18 +6,26 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_2.png"
       ],
-      "x": 1167,
-      "y": 841
+      "x": 1175,
+      "y": 840
+    },
+    {
+      "name": "r/starwars_place #1",
+      "sources": [
+        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_1.png"
+      ],
+      "x": 530,
+      "y": 731
     }
   ],
   "whitelist": [
     {
-      "name": "Digital Clock",
-      "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
-    },
-    {
       "name": "r/ousplace",
       "url": "https://osu.place/e/osuplace2023.json"
+    },
+    {
+      "name": "Omori",
+      "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
     }
   ],
   "blacklist": []
