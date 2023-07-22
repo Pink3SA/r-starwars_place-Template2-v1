@@ -26,6 +26,10 @@
     {
       "name": "Omori",
       "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+    },
+    {
+      "name": "USA",
+      "url": "https://afip.us/place/overlay"
     }
   ],
   "blacklist": []
