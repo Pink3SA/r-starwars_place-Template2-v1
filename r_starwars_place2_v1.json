@@ -30,6 +30,11 @@
     {
       "name": "USA",
       "url": "https://afip.us/place/overlay"
+    },
+    {
+      "name": "r/starwars_place AFIP TF2 Collab",
+      "url": "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_afip.json"
+
     }
   ],
   "blacklist": []
