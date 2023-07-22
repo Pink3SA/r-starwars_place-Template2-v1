@@ -1,0 +1,20 @@
+{
+  "contact": "https://discord.gg/TheGalacticRepublic",
+  "templates": [
+    {
+      "name": "r/starwars_place3 AFIP",
+      "sources": [
+        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_afip.png"
+      ],
+      "x": 463,
+      "y": 598
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "USA",
+      "url": "https://afip.us/place/overlay"
+    }
+  ],
+  "blacklist": []
+}
