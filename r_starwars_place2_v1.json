@@ -38,10 +38,6 @@
     {
       "name": "America",
       "url": "https://afip.us/place/overlay"
-    },
-    {
-      "name": "Ireland",
-      "url": "https://rentry.co/9z27s/raw"
     }
   ],
   "blacklist": []
