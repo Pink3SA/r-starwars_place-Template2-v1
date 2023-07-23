@@ -6,24 +6,24 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_2.png"
       ],
-      "x": 1175,
-      "y": 840
+      "x": 1675,
+      "y": 1340
     },
     {
       "name": "r/starwars_place #1",
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_1.png"
       ],
-      "x": 530,
-      "y": 731
+      "x": 1030,
+      "y": 1231
     },
     {
       "name": "r/starwars_place3 ireland",
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_ireland.png"
       ],
-      "x": 752,
-      "y": 304
+      "x": 1252,
+      "y": 804
     }
   ],
   "whitelist": [
