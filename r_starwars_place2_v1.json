@@ -6,7 +6,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_2.png"
       ],
-      "x": 2175,
+      "x": 2176,
       "y": 1340
     },
     {
@@ -14,7 +14,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_1.png"
       ],
-      "x": 1530,
+      "x": 1531,
       "y": 1231
     },
     {
@@ -22,7 +22,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_ireland.png"
       ],
-      "x": 1751,
+      "x": 1752,
       "y": 804
     },
     {
@@ -30,7 +30,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_STORM.png"
       ],
-      "x": 1412,
+      "x": 1413,
       "y": 1928
     },
     {
@@ -38,7 +38,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_saber.png"
       ],
-      "x": 117,
+      "x": 118,
       "y": 987
     }
   ],
@@ -62,6 +62,14 @@
     {
       "name": "r/Hatsune",
       "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+    },
+    {
+      "name": "Touhou",
+      "url": "https://tp23.dogecore.net/template.json"
+    },
+    {
+      "name": "Vietnam",
+      "url": "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json"
     }
   ],
   "blacklist": []
