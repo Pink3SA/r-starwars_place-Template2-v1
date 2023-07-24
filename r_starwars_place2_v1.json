@@ -26,7 +26,7 @@
       "y": 804
     },
     {
-      "name": "r/starwars_place3 STORM",
+      "name": "r/starwars_place STORM",
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_STORM.png"
       ],
@@ -34,13 +34,13 @@
       "y": 1928
     },
     {
-      "name": "r/starwars_place3 saber",
-      "sources": {
+      "name": "r/Starwars_Place Blade",
+      "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_saber.png"
-        ],
-        "x": 118,
-        "y": 987
-      }
+      ],
+      "x": 118,
+      "y": 987
+    }
   ],
   "whitelist": [
     {
@@ -54,6 +54,10 @@
     {
       "name": "America",
       "url": "https://afip.us/place/overlay"
+    },
+    {
+      "name": "Ireland",
+      "url": "https://rentry.co/9z27s/raw"
     }
   ],
   "blacklist": []
