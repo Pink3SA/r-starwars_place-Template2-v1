@@ -48,7 +48,14 @@
       ],
       "x": 2101,
       "y": 274
-    }
+    },
+    {
+      "name": "XWing",
+      "image": "https://place.staiy.live/xwing.png",
+      "x": 2532,
+      "y": 289
+     }
+    
   ],
   "whitelist": [
     {
