@@ -6,7 +6,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_2.png"
       ],
-      "x": 1675,
+      "x": 2176,
       "y": 1340
     },
     {
@@ -14,7 +14,7 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_1.png"
       ],
-      "x": 1030,
+      "x": 1531,
       "y": 1231
     },
     {
@@ -22,9 +22,25 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_ireland.png"
       ],
-      "x": 1251,
+      "x": 1752,
       "y": 804
-    }
+    },
+    {
+      "name": "r/starwars_place3 STORM",
+      "sources": [
+        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_STORM.png"
+      ],
+      "x": 1413,
+      "y": 1928
+    },
+    {
+      "name": "r/starwars_place3 saber",
+      "sources": {
+        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_saber.png"
+        ],
+        "x": 118,
+        "y": 987
+      }
   ],
   "whitelist": [
     {
