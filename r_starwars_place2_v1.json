@@ -40,14 +40,6 @@
       ],
       "x": 118,
       "y": 987
-    },
-    {
-      "name": "X-Wing!",
-      "sources": [
-        "https://place.staiy.live/xwing.png"
-      ],
-      "x": 2532,
-      "y": 289
     }
   ],
   "whitelist": [
