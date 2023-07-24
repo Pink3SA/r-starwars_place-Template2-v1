@@ -70,6 +70,10 @@
     {
       "name": "Vietnam",
       "url": "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json"
+    },
+    {
+      "name": "Indonesia",
+      "url": "https://gist.githubusercontent.com/daaniikusnanta/c78aeaae0b383f6690cfbc2791b35235/raw/12bf76d5b3eec1bc7b8e510f0d3ab2a4e5faad95/komodo-indomie.json"
     }
   ],
   "blacklist": []
