@@ -42,20 +42,13 @@
       "y": 987
     },
     {
-      "name": "r/Starwars_Place Blade2",
+      "name": "X-Wing!",
       "sources": [
-        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_saber.png"
+        "https://place.staiy.live/xwing.png"
       ],
-      "x": 2101,
-      "y": 274
-    },
-    {
-      "name": "XWing",
-      "image": "https://place.staiy.live/xwing.png",
       "x": 2532,
       "y": 289
-     }
-    
+    }
   ],
   "whitelist": [
     {
