@@ -64,6 +64,14 @@
       ],
       "x": 2634,
       "y": 281
+    },
+    {
+      "name": "r/starwars_place Staiy X-Wing + Surroundings",
+      "sources": [
+        "https://place.staiy.live/xwing.png"
+      ],
+      "x": 2512,
+      "y": 289
     }
   ],
   "whitelist": [
@@ -112,5 +120,4 @@
       "url": "https://raw.githubusercontent.com/shapetriescoding/shapeplace/main/shape.json"
     }
   ],
-  "blacklist": []
-}
+  "bl
