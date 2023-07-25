@@ -120,4 +120,5 @@
       "url": "https://raw.githubusercontent.com/shapetriescoding/shapeplace/main/shape.json"
     }
   ],
-  "bl
+  "blacklist": []
+}
