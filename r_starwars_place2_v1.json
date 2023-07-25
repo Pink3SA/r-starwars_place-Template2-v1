@@ -102,6 +102,10 @@
     {
       "name": "Komi",
       "url": "https://raw.githubusercontent.com/hurbruh/tadano-r-place/main/tadanoplace23"
+    },
+    {
+      "name": "Sinstar",
+      "url": "https://raw.githubusercontent.com/SiriusCrack/2023-place-sinistar/main/template.json"
     }
   ],
   "blacklist": []
