@@ -46,8 +46,8 @@
       "sources": [
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_rex.png"
       ],
-      "x": 2099,
-      "y": 276
+      "x": 2548,
+      "y": 277
     },
     {
       "name": "r/starwars_place TGR",
@@ -98,6 +98,10 @@
     {
       "name": "Staiy",
       "url": "https://place.staiy.live/metadata.json"
+    },
+    {
+      "name": "Komi",
+      "url": "https://raw.githubusercontent.com/hurbruh/tadano-r-place/main/tadanoplace23"
     }
   ],
   "blacklist": []
