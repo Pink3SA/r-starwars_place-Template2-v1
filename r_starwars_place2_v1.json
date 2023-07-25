@@ -48,14 +48,6 @@
       ],
       "x": 2099,
       "y": 276
-    },
-    {
-      "name": "r/starwars_place TGR",
-      "sources": [
-        "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_TGR.jpg"
-      ],
-      "x": 2831,
-      "y": 265
     }
   ],
   "whitelist": [
