@@ -47,7 +47,7 @@
         "https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place3_rex.png"
       ],
       "x": 2548,
-      "y": 277
+      "y": 276
     },
     {
       "name": "r/starwars_place TGR",
@@ -106,6 +106,10 @@
     {
       "name": "Sinstar",
       "url": "https://raw.githubusercontent.com/SiriusCrack/2023-place-sinistar/main/template.json"
+    },
+    {
+      "name": "Shape",
+      "url": "https://raw.githubusercontent.com/shapetriescoding/shapeplace/main/shape.json"
     }
   ],
   "blacklist": []
